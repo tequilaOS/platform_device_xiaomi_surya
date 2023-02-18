@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "platform_kernel_xiaomi_surya",
+    "target_path": "kernel/xiaomi/surya"
+  },
+  {
+    "repository": "platform_vendor_xiaomi_surya",
+    "target_path": "vendor/xiaomi/surya",
+    "remote": "tequila-gitlab"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-20",
+    "remote": "github"
+  }
+]
